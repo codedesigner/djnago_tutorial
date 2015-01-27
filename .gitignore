@@ -1,0 +1,10 @@
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Log Files
+*.log
+
+# Python
+*.pyc
